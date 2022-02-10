@@ -1,6 +1,6 @@
 # SVG-Ibanez-GRG140-SB-CustomGuitar
 
-## Кастомная гитара Ibanez GRG140 SB
+## Кастомная гитара Ibanez GRG140 SB | Custom guitar Ibanez GRG140 SB
 
 ## Codepen: https://codepen.io/vladimirsaenko/pen/MWOmGGG
 
