@@ -29,7 +29,7 @@ svg {
     align-items: center;
     width: 325px;
     height: 500px;
-    background: linear-gradient(45deg, #ffe70a 30%, #fffc2d 100%);
+    background: linear-gradient(45deg, #ffe602 30%, #ffea29 100%);
     border-radius: 15px;
     border: black 3px solid;
     text-transform: uppercase;
@@ -56,7 +56,7 @@ svg {
 .inputs div h3 {
     margin-top: 15px;
     font-size: 45px;
-    text-shadow: white 3.5px 1px 1px;
+    font-weight: bolder;
 }
 
 .allrestbox {
@@ -85,6 +85,7 @@ svg {
 .allrestbox div span {
     font-size: 30px;
     margin: 0px 20px;
+    font-weight: bolder;
 }
 
 .mainbutton {
@@ -109,4 +110,14 @@ svg {
 
 .mainbutton:active {
     background: rgb(201, 201, 25);
+}
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    .container {
+        flex-direction: column;
+    }
+
+    .mainbutton {
+        font-size: 55px;
+    }
 }
