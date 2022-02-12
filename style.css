@@ -117,7 +117,26 @@ svg {
         flex-direction: column;
     }
 
+    .pedal {
+        width: 300px;
+    }
+
+    .inputs div {
+        margin: 20px;
+    }
+
+    .inputs div h3 {
+        font-size: 50px;
+        margin-top: 25px;
+    }
+
     .mainbutton {
-        font-size: 55px;
+        font-size: 40px;
+        height: 100px;
+        margin-top: 5px;
+    }
+
+    .allrestbox div span {
+        margin: 0px 15px;
     }
 }
