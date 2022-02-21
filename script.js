@@ -13,12 +13,3 @@ mainbutton.addEventListener('click', function() {
     pad.style.fill = input2.value;
     path4197.style.fill = input2.value;
 })
-
-// input1.addEventListener('click', () => {
-//     guitarBody.style.fill = input1.value;
-// })
-
-// input2.addEventListener('click', () => {
-//     pad.style.fill = input2.value;
-//     path4197.style.fill = input2.value;
-// })
