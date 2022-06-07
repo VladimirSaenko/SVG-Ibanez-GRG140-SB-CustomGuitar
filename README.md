@@ -8,4 +8,4 @@
 
 ### Portfolio: https://vladimirsaenko.github.io/Portfolio-3/sites/site-53/Ibanez/index.html
 
-![a444bac63990996763af756f4af330e4](https://user-images.githubusercontent.com/56477695/153446978-4cb5e891-41f7-4cd3-8cad-c427d01c022e.jpg)
+![23423573](https://user-images.githubusercontent.com/56477695/172371460-9e2b98fa-f774-462a-99b4-f1aacf2ccc3b.jpg)
