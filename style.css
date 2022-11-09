@@ -23,7 +23,7 @@ svg {
 }
 
 .paint-text {
-    font-size: 40px;
+    font-size: 3rem;
     font-weight: bolder;
     margin-top: 25px;
 }
@@ -74,26 +74,6 @@ svg {
     width: 100%;
 }
 
-.allrestbox div {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    width: 100%;
-    height: 50px;
-}
-
-.allrestbox div svg {
-    width: 100px;
-    height: 100px;
-}
-
-.allrestbox div span {
-    font-size: 30px;
-    margin: 0px 20px;
-    font-weight: bolder;
-}
-
 .mainbutton {
     cursor: pointer;
     text-align: center;
@@ -124,7 +104,12 @@ svg {
     }
 
     .pedal {
-        width: 300px;
+        width: 275px;
+        height: 575px;
+    }
+
+    .paint-text {
+        font-size: 2.5rem;
     }
 
     .inputs div {
@@ -132,12 +117,12 @@ svg {
     }
 
     .inputs div h3 {
-        font-size: 50px;
+        font-size: 2rem;
         margin-top: 25px;
     }
 
     .mainbutton {
-        font-size: 40px;
+        font-size: 3.5rem;
         height: 100px;
         margin-top: 5px;
     }
